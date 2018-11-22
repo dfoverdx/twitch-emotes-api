@@ -1,0 +1,23 @@
+{
+  "name": "twitch-emotes-api",
+  "version": "0.1.0",
+  "description": "Alternative to twitchemotes.com's api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfoverdx/twitch-emotes-api.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Emotes"
+  ],
+  "author": "Jordan Hitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfoverdx/twitch-emotes-api/issues"
+  },
+  "homepage": "https://github.com/dfoverdx/twitch-emotes-api#readme"
+}
